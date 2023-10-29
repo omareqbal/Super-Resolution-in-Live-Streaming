@@ -1,4 +1,7 @@
 # Super Resolution in Live Streaming
+
+M.Tech Thesis - https://drive.google.com/drive/folders/1LeLvSfcVMgWNNIA7eTR5DnAw9eM7oLeP?usp=sharing
+
 ### Dependencies
 MATLAB -\
 Parallel Computing Toolbox\
