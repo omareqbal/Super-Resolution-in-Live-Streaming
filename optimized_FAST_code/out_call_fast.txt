@@ -1,0 +1,261 @@
+---------------Segment 1-------------
+
+
+
+Run Decoder and dump frame dependency information - 1.459711
+Parse dump.txt - 30.457220
+Load sequence - 0.329124
+Reconstruct residue - 0.123449
+Reconstruct inter - 1.202912
+Reconstruct intra - 0.098786
+Parse frame dependency information - 32.217832
+Load Keras SRCNN model - 0.000013
+Apply Keras SRCNN on 1 frames - 0.239992
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.306564
+frame-by-frame transfer - 9.523900
+Transfer SR output to rest 239 frames - 9.832360
+(240, 352, 640)
+qt.qpa.xcb: XKeyboard extension not present on the X server
+
+
+
+---------------Segment 2-------------
+
+
+
+Run Decoder and dump frame dependency information - 0.985134
+Parse dump.txt - 13.114113
+Load sequence - 0.296354
+Reconstruct residue - 0.149028
+Reconstruct inter - 1.908665
+Reconstruct intra - 0.068755
+Parse frame dependency information - 15.542179
+Load Keras SRCNN model - 0.000010
+Apply Keras SRCNN on 1 frames - 0.216720
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.306369
+frame-by-frame transfer - 12.303357
+Transfer SR output to rest 239 frames - 12.610887
+(240, 352, 640)
+
+------Stall = 32.13------
+
+
+
+
+---------------Segment 3-------------
+
+
+
+Run Decoder and dump frame dependency information - 1.058252
+Parse dump.txt - 15.309621
+Load sequence - 0.351315
+Reconstruct residue - 0.246852
+Reconstruct inter - 2.340898
+Reconstruct intra - 0.071570
+Parse frame dependency information - 18.328034
+Load Keras SRCNN model - 0.000012
+Apply Keras SRCNN on 1 frames - 0.215672
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.334089
+frame-by-frame transfer - 17.435368
+Transfer SR output to rest 239 frames - 17.770988
+(240, 352, 640)
+
+------Stall = 39.44------
+
+
+
+
+---------------Segment 4-------------
+
+
+
+Run Decoder and dump frame dependency information - 0.998573
+Parse dump.txt - 14.192717
+Load sequence - 0.315839
+Reconstruct residue - 0.159968
+Reconstruct inter - 2.063089
+Reconstruct intra - 0.075628
+Parse frame dependency information - 16.813491
+Load Keras SRCNN model - 0.000016
+Apply Keras SRCNN on 1 frames - 0.213621
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.326661
+frame-by-frame transfer - 13.108869
+Transfer SR output to rest 239 frames - 13.436847
+(240, 352, 640)
+
+------Stall = 34.02------
+
+
+
+
+---------------Segment 5-------------
+
+
+
+Run Decoder and dump frame dependency information - 1.021082
+Parse dump.txt - 15.197445
+Load sequence - 0.324255
+Reconstruct residue - 0.158518
+Reconstruct inter - 2.711971
+Reconstruct intra - 0.064553
+Parse frame dependency information - 18.468004
+Load Keras SRCNN model - 0.000010
+Apply Keras SRCNN on 1 frames - 0.218836
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.302616
+frame-by-frame transfer - 12.992379
+Transfer SR output to rest 239 frames - 13.296509
+(240, 352, 640)
+
+------Stall = 35.45------
+
+
+
+
+---------------Segment 6-------------
+
+
+
+Run Decoder and dump frame dependency information - 0.876902
+Parse dump.txt - 9.222361
+Load sequence - 0.332844
+Reconstruct residue - 0.125750
+Reconstruct inter - 2.198366
+Reconstruct intra - 0.087341
+Parse frame dependency information - 11.974720
+Load Keras SRCNN model - 0.000020
+Apply Keras SRCNN on 1 frames - 0.215962
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.375862
+frame-by-frame transfer - 8.877272
+Transfer SR output to rest 239 frames - 9.254549
+(240, 352, 640)
+
+------Stall = 25.09------
+
+
+
+
+---------------Segment 7-------------
+
+
+
+Run Decoder and dump frame dependency information - 1.179959
+Parse dump.txt - 18.693665
+Load sequence - 0.331522
+Reconstruct residue - 0.201907
+Reconstruct inter - 2.376504
+Reconstruct intra - 0.126924
+Parse frame dependency information - 21.739441
+Load Keras SRCNN model - 0.000011
+Apply Keras SRCNN on 1 frames - 0.234712
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.378136
+frame-by-frame transfer - 14.310617
+Transfer SR output to rest 239 frames - 14.690018
+(240, 352, 640)
+
+------Stall = 39.89------
+
+
+
+
+---------------Segment 8-------------
+
+
+
+Run Decoder and dump frame dependency information - 1.074472
+Parse dump.txt - 16.717885
+Load sequence - 0.306915
+Reconstruct residue - 0.172607
+Reconstruct inter - 1.979168
+Reconstruct intra - 0.079482
+Parse frame dependency information - 19.263148
+Load Keras SRCNN model - 0.000017
+Apply Keras SRCNN on 1 frames - 0.205165
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.292143
+frame-by-frame transfer - 13.092912
+Transfer SR output to rest 239 frames - 13.386313
+(240, 352, 640)
+
+------Stall = 36.35------
+
+
+
+
+---------------Segment 9-------------
+
+
+
+Run Decoder and dump frame dependency information - 1.363967
+Parse dump.txt - 22.912165
+Load sequence - 0.339659
+Reconstruct residue - 0.211565
+Reconstruct inter - 1.965245
+Reconstruct intra - 0.113786
+Parse frame dependency information - 25.547989
+Load Keras SRCNN model - 0.000013
+Apply Keras SRCNN on 1 frames - 0.230431
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.411145
+frame-by-frame transfer - 15.662064
+Transfer SR output to rest 239 frames - 16.075223
+(240, 352, 640)
+
+------Stall = 45.94------
+
+
+
+
+---------------Segment 10-------------
+
+
+
+Run Decoder and dump frame dependency information - 1.359704
+Parse dump.txt - 24.949465
+Load sequence - 0.318714
+Reconstruct residue - 0.277663
+Reconstruct inter - 2.298121
+Reconstruct intra - 0.067751
+Parse frame dependency information - 27.917437
+Load Keras SRCNN model - 0.000007
+Apply Keras SRCNN on 1 frames - 0.210722
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.330690
+frame-by-frame transfer - 18.133106
+Transfer SR output to rest 239 frames - 18.465058
+(240, 352, 640)
+
+------Stall = 50.37------
+
+
+
+
+---------------Segment 11-------------
+
+
+
+Run Decoder and dump frame dependency information - 1.748952
+Parse dump.txt - 32.433828
+Load sequence - 0.344728
+Reconstruct residue - 0.321186
+Reconstruct inter - 2.227956
+Reconstruct intra - 0.105541
+Parse frame dependency information - 35.438854
+Load Keras SRCNN model - 0.000010
+Apply Keras SRCNN on 1 frames - 0.223489
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.348825
+frame-by-frame transfer - 24.080559
+Transfer SR output to rest 239 frames - 24.430705
+(240, 352, 640)
+
+------Stall = 64.22------
+
+
+----Avg Stall = 40.29----

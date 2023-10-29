@@ -1,0 +1,523 @@
+
+Call Fast 4
+
+
+
+
+-------------Fetching Segment 1-------------
+
+
+
+
+
+
+-------------Fetching Segment 2-------------
+
+
+
+
+
+
+-------------SR Segment 1      Quality 2-------------
+
+
+
+
+
+
+-------------Fetching Segment 3-------------
+
+
+
+Run Decoder and dump frame dependency information - 1.646972
+
+
+
+-------------Fetching Segment 4-------------
+
+
+
+
+
+
+-------------Fetching Segment 5-------------
+
+
+
+
+
+
+-------------Fetching Segment 6-------------
+
+
+
+
+
+
+-------------Fetching Segment 7-------------
+
+
+
+
+
+
+-------------Fetching Segment 8-------------
+
+
+
+
+
+
+-------------Fetching Segment 9-------------
+
+
+
+
+
+
+-------------Fetching Segment 10-------------
+
+
+
+
+
+
+-------------Fetching Segment 11-------------
+
+
+
+
+
+
+-------------Fetching Segment 12-------------
+
+
+
+
+
+
+-------------Fetching Segment 13-------------
+
+
+
+
+
+
+-------------Fetching Segment 14-------------
+
+
+
+
+
+
+-------------Fetching Segment 15-------------
+
+
+
+
+
+
+-------------Fetching Segment 16-------------
+
+
+
+
+
+
+-------------Fetching Segment 17-------------
+
+
+
+
+
+
+-------------Fetching Segment 18-------------
+
+
+
+
+
+
+-------------Fetching Segment 19-------------
+
+
+
+
+
+
+-------------Fetching Segment 20-------------
+
+
+
+Parse dump.txt - 29.848260
+Load sequence - 0.404259
+Reconstruct residue - 0.124511
+Reconstruct inter - 1.135258
+Reconstruct intra - 0.090543
+Parse frame dependency information - 31.608557
+Load Keras SRCNN model - 0.000012
+Apply Keras SRCNN on 1 frames - 0.268139
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.291557
+frame-by-frame transfer - 10.791154
+Transfer SR output to rest 239 frames - 11.084648
+
+
+
+-------------SR Segment 2      Quality 5-------------
+
+
+
+
+
+
+-------------SR Segment 3      Quality 3-------------
+
+
+
+
+
+
+-------------Displaying Segment 1-------------
+
+
+
+qt.qpa.xcb: XKeyboard extension not present on the X server
+Run Decoder and dump frame dependency information - 1.161772
+
+
+
+-------------Displaying Segment 2-------------
+
+
+
+
+------Stall = 0.19------
+
+Parse dump.txt - 17.853846
+Load sequence - 0.432788
+Reconstruct residue - 0.262973
+Reconstruct inter - 2.549069
+Reconstruct intra - 0.103328
+Parse frame dependency information - 21.208611
+Load Keras SRCNN model - 0.000009
+Apply Keras SRCNN on 1 frames - 0.257888
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.323031
+frame-by-frame transfer - 19.042001
+Transfer SR output to rest 239 frames - 19.365947
+
+
+
+-------------SR Segment 4      Quality 4-------------
+
+
+
+
+
+
+-------------SR Segment 5      Quality 6-------------
+
+
+
+
+
+
+-------------Displaying Segment 3-------------
+
+
+
+
+------Stall = 25.18------
+
+
+
+
+-------------SR Segment 6      Quality 6-------------
+
+
+
+
+
+
+-------------SR Segment 7      Quality 8-------------
+
+
+
+
+
+
+-------------SR Segment 8      Quality 6-------------
+
+
+
+
+
+
+-------------SR Segment 9      Quality 9-------------
+
+
+
+
+
+
+-------------SR Segment 10      Quality 9-------------
+
+
+
+
+
+
+-------------SR Segment 11      Quality 6-------------
+
+
+
+
+
+
+-------------SR Segment 12      Quality 4-------------
+
+
+
+
+
+
+-------------SR Segment 13      Quality 5-------------
+
+
+
+
+
+
+-------------SR Segment 14      Quality 5-------------
+
+
+
+
+
+
+-------------SR Segment 15      Quality 2-------------
+
+
+
+Run Decoder and dump frame dependency information - 1.421887
+
+
+
+-------------Displaying Segment 4-------------
+
+
+
+
+------Stall = 0.12------
+
+
+
+
+-------------Displaying Segment 5-------------
+
+
+
+
+------Stall = 0.15------
+
+
+
+
+-------------Displaying Segment 6-------------
+
+
+
+
+------Stall = 0.17------
+
+Parse dump.txt - 22.879085
+Load sequence - 0.423185
+Reconstruct residue - 0.200675
+Reconstruct inter - 2.049194
+Reconstruct intra - 0.090293
+Parse frame dependency information - 25.649378
+Load Keras SRCNN model - 0.000007
+Apply Keras SRCNN on 1 frames - 0.263712
+Upsampling remaining frames
+Reconstruct LR image for transfer - 0.383526
+
+
+
+-------------Displaying Segment 7-------------
+
+
+
+
+------Stall = 0.41------
+
+
+
+
+-------------Displaying Segment 8-------------
+
+
+
+
+------Stall = 0.14------
+
+frame-by-frame transfer - 20.840257
+Transfer SR output to rest 239 frames - 21.225301
+
+
+
+-------------SR Segment 16      Quality 5-------------
+
+
+
+
+
+
+-------------SR Segment 17      Quality 4-------------
+
+
+
+
+
+
+-------------Displaying Segment 9-------------
+
+
+
+
+
+
+-------------SR Segment 18      Quality 7-------------
+
+
+
+
+------Stall = 0.51------
+
+
+
+
+-------------SR Segment 19      Quality 6-------------
+
+
+
+
+
+
+-------------SR Segment 20      Quality 6-------------
+
+
+
+
+
+
+-------------Displaying Segment 10-------------
+
+
+
+
+------Stall = 0.57------
+
+
+
+
+-------------Displaying Segment 11-------------
+
+
+
+
+------Stall = 0.10------
+
+
+
+
+-------------Displaying Segment 12-------------
+
+
+
+
+------Stall = 0.07------
+
+
+
+
+-------------Displaying Segment 13-------------
+
+
+
+
+------Stall = 0.17------
+
+
+
+
+-------------Displaying Segment 14-------------
+
+
+
+
+------Stall = 0.19------
+
+
+
+
+-------------Displaying Segment 15-------------
+
+
+
+
+------Stall = 0.23------
+
+
+
+
+-------------Displaying Segment 16-------------
+
+
+
+
+------Stall = 0.17------
+
+
+
+
+-------------Displaying Segment 17-------------
+
+
+
+
+------Stall = 0.09------
+
+
+
+
+-------------Displaying Segment 18-------------
+
+
+
+
+------Stall = 0.23------
+
+
+
+
+-------------Displaying Segment 19-------------
+
+
+
+
+------Stall = 0.21------
+
+
+
+
+-------------Displaying Segment 20-------------
+
+
+
+
+------Stall = 0.19------
+
+
+----Avg Stall = 1.53----
+
